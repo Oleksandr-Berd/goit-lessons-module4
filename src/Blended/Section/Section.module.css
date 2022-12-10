@@ -1,0 +1,10 @@
+.section {
+  margin: auto;
+  width: 1200px;
+  padding: 20px;
+}
+
+.superSection {
+  composes: section;
+  background-color: bisque;
+}
